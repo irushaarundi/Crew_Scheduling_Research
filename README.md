@@ -34,3 +34,9 @@ Conclusions
  for cost-minimizing for crew scheduling.
  
  • Develop of user-friendly website for real-time crew scheduling management.
+
+ Future Improvements
+ 1. Add experience levels for the crew members.
+ 2. Add aviation regulations and increase the number of available tours.
+ 3. Integrate Machine Learning models to predict demand and optimize scheduling.
+ 4. Expand the platform to handle additional operational constraints.
